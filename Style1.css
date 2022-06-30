@@ -1,0 +1,22 @@
+﻿.hi {
+    height:70%;
+    width:100%;
+}
+
+.hilo{
+    position:relative;
+  font-size:34px;  
+  text-align: center;
+  color: white;
+}
+.top-left {
+    position:absolute;  
+    top:8px;
+    left:10px;
+}
+.centered {
+  position: absolute;
+  top: 70%;
+  left: 20%;
+  transform: translate(-30%, -80%);
+}
